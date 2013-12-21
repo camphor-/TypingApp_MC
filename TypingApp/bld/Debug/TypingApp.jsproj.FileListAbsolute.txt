@@ -1,0 +1,15 @@
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bin\Debug\ReverseMap\resources.pri
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bin\Debug\AppxManifest.xml
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bin\Debug\TypingApp.build.appxrecipe
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\priconfig.xml
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\priconfig.xml.intermediate
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\layout.resfiles
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\layout.resfiles.intermediate
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\resources.resfiles
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\resources.resfiles.intermediate
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\pri.resfiles
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\pri.resfiles.intermediate
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\qualifiers.txt
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\qualifiers.txt.intermediate
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\kkouh_000\documents\visual studio 2013\Projects\TypingApp\TypingApp\bld\Debug\ProjectArchitectures.txt

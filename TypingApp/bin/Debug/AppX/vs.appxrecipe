@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KOHEY</Machine>
+    <WindowsUser>kkouh_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>df4a0842-e534-4c6f-b8a6-6ca704f0b593</PackageIdentityName>
+    <RegisteredManifestChecksum>B4187CBCF0B09AB79F4DC8436DC37E7FCE4C6B8498CF925C3348728980F1D27E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df4a0842-e534-4c6f-b8a6-6ca704f0b593_1.0.0.0_neutral__0y8z1erqv36sy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df4a0842-e534-4c6f-b8a6-6ca704f0b593_0y8z1erqv36sy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df4a0842-e534-4c6f-b8a6-6ca704f0b593</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kkouh_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-11T09:52:47.781</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\contents.json">
+      <PackagePath>contents.json</PackagePath>
+      <Modified>2013-12-19T03:28:24.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+      <Modified>2013-12-18T17:07:53.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\css\xtyle.min.css">
+      <PackagePath>css\xtyle.min.css</PackagePath>
+      <Modified>2013-12-07T08:01:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-12-18T16:55:06.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-12-18T17:02:30.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T12:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T12:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T12:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T12:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\img\einstein.png">
+      <PackagePath>img\einstein.png</PackagePath>
+      <Modified>2013-12-07T08:01:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\img\mrchildren.png">
+      <PackagePath>img\mrchildren.png</PackagePath>
+      <Modified>2013-12-11T09:52:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-10-04T17:43:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\js\jquery-2.0.3.min.js">
+      <PackagePath>js\jquery-2.0.3.min.js</PackagePath>
+      <Modified>2013-12-07T08:01:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\js\typing.js">
+      <PackagePath>js\typing.js</PackagePath>
+      <Modified>2013-12-19T03:59:30.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\js\xtyle.min.js">
+      <PackagePath>js\xtyle.min.js</PackagePath>
+      <Modified>2013-12-07T08:01:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\kkouh_000\Documents\Visual Studio 2013\Projects\TypingApp\TypingApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-11T09:52:47.472</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
